@@ -21,7 +21,7 @@ namespace Numbers
                     lineToPrint += " buzz";
                 }
 
-                Console.Write(lineToPrint);
+                Console.WriteLine(lineToPrint);
             }
             Console.ReadLine();
         }
